@@ -15,9 +15,7 @@
     <p>📚 I’m diving into <a href="https://github.com/mrdoob/three.js/">Three.js</a>, <a href="https://github.com/ruby/ruby">Ruby</a>, and <a href="https://github.com/ethereum/solidity">Solidity</a> right now, and I’m super excited about what I’m learning!</p>
     <p>👾 If you want to chat or get to know me better, hit me up on Discord: <code>kingfalkern</code></p>
   </div>
-</hidden>
 
-<hidden>
   <div align="center">
     <img src="https://api.statusbadges.me/badge/status/806412205557284875?style=for-the-badge" alt="status">
     <img src="https://api.statusbadges.me/badge/playing/806412205557284875?style=for-the-badge" alt="playing">
