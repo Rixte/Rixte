@@ -12,7 +12,7 @@
   <p>🎓 I'm currently in my first year studying <a href="https://ceg.nus.edu.sg/">Computer Engineering</a> at the <a href="https://nus.edu.sg/">National University of Singapore</a>.</p>
   <p>🌱 Currently learning:</p>
     <p>- Automation: Ansible, Kubernetes, and Terraform</p>
-    <p>- ML: How to use HuggingFace and Tensorflow
+    <p>- Machine Learning: HuggingFace and Tensorflow
     <p>- Coding Languges: Python and C
   <p>🎮 As a student in the day and a gamer at night, you can find me playing the following games:</p>
     <p>- MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</p>
