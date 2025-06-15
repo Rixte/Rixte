@@ -17,7 +17,7 @@
   <p>🎮 As a student in the day and a gamer at night, you can find me playing the following games:</p>
     <p>    - MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</p>
     <p>    - Genshin Impact [AR 60, Eula Main]
-  <p>Feel free to contact me on Discord: <code>rixteriel</code> or by email: <code>ikolpito@gmail.com</code></p>
+  <p>Feel free to contact me on Discord: <code>rixteriel</code>, or by email: <code>ikolpito@gmail.com</code></p>
 </div>
 
 
