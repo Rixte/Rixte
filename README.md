@@ -14,17 +14,17 @@
   </p>
 
   <p>🌱 Currently learning:</p>
-  <div style="margin-left: 20px;">
-    <p>• Automation: Ansible, Kubernetes, and Terraform</p>
-    <p>• Machine Learning: HuggingFace and Tensorflow</p>
-    <p>• Coding Languages: Python and C</p>
-  </div>
-
+  <ul style="margin-left: 30px;">
+    <li>Automation: Ansible, Kubernetes, and Terraform</li>
+    <li>Machine Learning: HuggingFace and Tensorflow</li>
+    <li>Coding Languages: Python and C</li>
+  </ul>
+  
   <p>🎮 As a student in the day and a gamer at night, you can find me playing the following games:</p>
-  <div style="margin-left: 20px;">
-    <p>• MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</p>
-    <p>• Genshin Impact [AR 60, Eula Main]</p>
-  </div>
+  <ul style="margin-left: 30px;">
+    <li>MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</li>
+    <li>Genshin Impact [AR 60, Eula Main]</li>
+  </ul>
   <p>Feel free to contact me on Discord: <code>rixteriel</code>, or by email: <code>ikolpito@gmail.com</code></p>
 </div>
 
