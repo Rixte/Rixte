@@ -11,12 +11,14 @@
   <p>👋 Hello! I'm an aspiring Network Automation Engineer & interested in Artificial Intelligence & Web Development as well 💖</p>
   <p>🎓 I'm currently in my first year studying <a href="https://ceg.nus.edu.sg/">Computer Engineering</a> at the <a href="https://nus.edu.sg/">National University of Singapore</a>.</p>
   <p>🌱 Currently learning:</p>
-    <p>    - Automation: Ansible, Kubernetes, and Terraform</p>
-    <p>    - Machine Learning: HuggingFace and Tensorflow
-    <p>    - Coding Languges: Python and C
+    <div style="margin-left: 20px;">
+    <p>• Automation: Ansible, Kubernetes, and Terraform</p>
+    <p>• Machine Learning: HuggingFace and Tensorflow
+    <p>• Coding Languges: Python and C
   <p>🎮 As a student in the day and a gamer at night, you can find me playing the following games:</p>
-    <p>    - MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</p>
-    <p>    - Genshin Impact [AR 60, Eula Main]
+    <div style="margin-left: 20px;">
+    <p>• MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</p>
+    <p>• Genshin Impact [AR 60, Eula Main]
   <p>Feel free to contact me on Discord: <code>rixteriel</code>, or by email: <code>ikolpito@gmail.com</code></p>
 </div>
 
