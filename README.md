@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.pinterest.com/pin/589338301276069802/sent/?invite_code=64f3b0a43ca3409a81d11091484f06b6&sender=610097218179084955&sfo=1.pnj" alt="Nanami Bored" style="width:100">
+    <img src="https://64.media.tumblr.com/627f8783bce2f2f6e0c26b77efa18a0f/1578db14220f99e2-2d/s1280x1920/afbce8e18f1cbae9ec4dd0c144c049002caa7946.pnj" alt="Nanami Bored" style="width:100">
 </div>
 
 
