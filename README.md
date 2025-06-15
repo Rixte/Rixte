@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Flight-blue-aesthetic-laptop&psig=AOvVaw3WMeNM9p75qYFcdcCr8219&ust=1750069938284000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOidp9uc840DFQAAAAAdAAAAABAE" alt="yung kai - blue" style="width:100%">
+    <img src="https://www.pinterest.com/pin/589338301276069802/sent/?invite_code=64f3b0a43ca3409a81d11091484f06b6&sender=610097218179084955&sfo=1" alt="Nanami Bored" style="width:100">
 </div>
 
 
