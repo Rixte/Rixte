@@ -29,6 +29,7 @@
 </div>
 
 <details>
+  <div>
   <div align="center">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=Rixte&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="60%">
