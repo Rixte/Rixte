@@ -29,6 +29,8 @@
 </div>
 
 <details>
+  <summary>
+  </summary>
   <div>
   <div align="center">
     <a href="#">
