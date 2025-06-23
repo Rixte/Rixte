@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <p>👋 Hello! I'm an aspiring Network Automation Engineer & interested in Artificial Intelligence & Web Development as well 💖</p>
+  <p>👋 Hello! I'm an aspiring Network Automation Engineer who's interested in Artificial Intelligence & Web Development as well 💖</p>
   <p>🎓 I'm currently in my first year studying 
     <a href="https://ceg.nus.edu.sg/">Computer Engineering</a> at the 
     <a href="https://nus.edu.sg/">National University of Singapore</a>.
@@ -20,7 +20,7 @@
     <li>Coding Languages: Python and C</li>
   </ul>
   
-  <p>🎮 As a student in the day and a gamer at night, you can find me playing the following games:</p>
+  <p>🎮 You can find me playing the following games:</p>
   <ul style="margin-left: 30px;">
     <li>MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</li>
     <li>Genshin Impact [AR 60, Eula Main]</li>
