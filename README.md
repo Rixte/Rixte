@@ -24,6 +24,7 @@
   <ul style="margin-left: 30px;">
     <li>MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</li>
     <li>Genshin Impact [AR 60, Eula Main]</li>
+    <li>Grow a Garden 🔥 [70M+ Sheckles]</li>
   </ul>
   <p>Feel free to contact me on Discord: <code>rixteriel</code>, or by email: <code>ikolpito@gmail.com</code></p>
 </div>
