@@ -13,18 +13,19 @@
     <a href="https://nus.edu.sg/">National University of Singapore</a>.
   </p>
 
-  <p>🌱 Currently learning:</p>
+  <p>📚 Currently learning:</p>
   <ul style="margin-left: 30px;">
     <li>Automation: Ansible, Kubernetes, and Terraform</li>
     <li>Machine Learning: HuggingFace and Tensorflow</li>
     <li>Coding Languages: Python and C</li>
   </ul>
   
-  <p>🎮 You can find me playing the following games:</p>
+  <p>🎮 The following are some of my game achievements:</p>
   <ul style="margin-left: 30px;">
     <li>MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</li>
     <li>Genshin Impact [AR 60, Eula Main]</li>
-    <li>Grow a Garden 🔥 [70M+ Sheckles]</li>
+    <li>Grow a Garden 🌱 [1.4B+ Sheckles]</li>
+    <li>Epic Minigames 🎲 [Level 143, 20k+ wins]</li>
   </ul>
   <p>Feel free to contact me on Discord: <code>rixteriel</code>, or by email: <code>ikolpito@gmail.com</code></p>
 </div>
