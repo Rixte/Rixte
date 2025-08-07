@@ -27,7 +27,6 @@
     <li>Grow a Garden 🌱 [1.4B+ Sheckles]</li>
     <li>Epic Minigames 🎲 [Level 143, 20k+ wins]</li>
   </ul>
-  <p>Feel free to contact me on Discord: <code>rixteriel</code></p>
 </div>
 
 <details>
