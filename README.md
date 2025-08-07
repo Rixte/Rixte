@@ -8,7 +8,7 @@
 
 <div>
   <p>👋 Hello! I'm an aspiring Network Automation Engineer who's interested in Artificial Intelligence & Web Development as well 💖</p>
-  <p>🎓 I'm currently a University undergraduate studying 
+  <p>🎓 I'm currently an undergraduate studying 
     <a href="https://ceg.nus.edu.sg/">Computer Engineering</a> at the 
     <a href="https://nus.edu.sg/">National University of Singapore</a>.
   </p>
