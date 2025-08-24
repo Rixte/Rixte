@@ -20,7 +20,7 @@
     <li>Coding Languages: Python and C</li>
   </ul>
   
-  <p>🎮 Some of my proud game achievements :P:</p>
+  <p>🎮 Some of my proud game achievements!!</p>
   <ul style="margin-left: 30px;">
     <li>MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</li>
     <li>Grow a Garden 🌱 [1.3+ QA Sheckles]</li>
