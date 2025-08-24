@@ -26,6 +26,7 @@
     <li>Grow a Garden 🌱 [1.3+ Quadrillion Sheckles]</li>
     <li>Epic Minigames 🎲 [Level 143, 20k+ wins]</li>
     <li>99 Nights in the Forest 🦌 [Survived 849 Days]</li>
+    <li>Portals 2: Co-op [Completed]</li>
   </ul>
 </div>
 
