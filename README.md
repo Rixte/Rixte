@@ -20,12 +20,12 @@
     <li>Coding Languages: Python and C</li>
   </ul>
   
-  <p>🎮 The following are some of my game achievements:</p>
+  <p>🎮 Some of my proud game achievements :P:</p>
   <ul style="margin-left: 30px;">
     <li>MLBB [Peak Mythical Immortal, EXP/Mage/Roamer]</li>
-    <li>Genshin Impact [AR 60, Eula Main]</li>
-    <li>Grow a Garden 🌱 [1.4B+ Sheckles]</li>
+    <li>Grow a Garden 🌱 [1.3+ QA Sheckles]</li>
     <li>Epic Minigames 🎲 [Level 143, 20k+ wins]</li>
+    <li>99 Nights in the Forest 🦌 [Survived 849 Days]</li>
   </ul>
 </div>
 
