@@ -13,7 +13,7 @@
     <a href="https://nus.edu.sg/">National University of Singapore</a>.
   </p>
 
-  <p>📚 Supposed to learn:</p>
+  <p>📚 Planning to learn:</p>
   <ul style="margin-left: 30px;">
     <li>Automation: Ansible, Kubernetes, and Terraform</li>
     <li>Machine Learning: HuggingFace and Tensorflow</li>
