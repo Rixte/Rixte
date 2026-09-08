@@ -12,13 +12,14 @@
     <a href="https://ceg.nus.edu.sg/">Computer Engineering</a> at the 
     <a href="https://nus.edu.sg/">National University of Singapore</a>.
   </p>
-
+  <!--
   <p>📚 Planning to learn:</p>
   <ul style="margin-left: 30px;">
     <li>Automation: Ansible, Kubernetes, and Terraform</li>
     <li>Machine Learning: HuggingFace and Tensorflow</li>
     <li>Coding Languages: Python and C</li>
   </ul>
+  -->
 
   <p>Also thank you to DuenoHfao for giving me coding related theories and practicals to do every other day 🙏</p>
   <!--
@@ -40,7 +41,7 @@
   <div>
   <div align="center">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rixte&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rixte&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" width="60%">
     </a>
   </div>
 </details>
