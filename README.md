@@ -16,7 +16,7 @@
   <p>📚 Planning to learn:</p>
   <ul style="margin-left: 30px;">
     <li>Automation: Ansible</li>
-    <li>Coding Languages: Python/li>
+    <li>Coding Languages: Python</li>
   </ul>
   
   <!--
